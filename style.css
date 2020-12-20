@@ -1,0 +1,23 @@
+body{
+    background: #555;
+}
+
+.time{
+    box-sizing: border-box;
+    text-align: center;
+    padding: 50px;
+    padding-top: 250px;
+    font-size: 4rem;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: auto;
+
+}
+
+.time span{
+    display: inline-block;
+    padding: 30px;
+    padding: 20px 40px;
+    background: #222;
+
+}
